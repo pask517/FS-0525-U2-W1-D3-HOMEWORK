@@ -1,0 +1,21 @@
+header{
+    display: flex;
+}
+header button:nth-of-type(3) img{
+width: 50px;
+height: 30px;
+align-self: center;
+}
+header button:nth-of-type(3){
+    display: flex;
+    margin-right: 0;
+    height: 40px;
+}
+header button:nth-of-type(3) span{
+    align-self: center;
+}
+.button{
+    border-radius: 4em;
+    background-color: rgb(255, 255, 165);
+    border: 1px solid rgb(255, 255, 165);
+}
